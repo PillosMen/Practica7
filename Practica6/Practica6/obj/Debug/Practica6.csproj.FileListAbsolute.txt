@@ -1,0 +1,6 @@
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.exe
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\bin\Debug\Practica6.pdb
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.exe
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\obj\Debug\Practica6.pdb
+C:\Users\AMD\Desktop\SharpDevelopPortable\Data\SharpDevelop Projects\Practica6\Practica6\bin\Debug\mysql.data.dll
